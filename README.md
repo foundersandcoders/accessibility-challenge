@@ -1,3 +1,6 @@
+**Author**: [@njsfield](https://github.com/njsfield)  
+**Maintainer**: [@njsfield](https://github.com/njsfield)
+
 # Accessibility Morning Challenge (60 minutes)
 
 1. Clone this repo
