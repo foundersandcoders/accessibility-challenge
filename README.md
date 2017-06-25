@@ -10,4 +10,5 @@ The learning outcomes of this Morning Challenge are as follows:
 - Use the label tag around/for the input tag.
   - The `label` element is used to explicitly associate a form control with the label.
   - `Labels` are anaccessibility feauture that allows screen readers to voice the input prompt to the user.
-- Tab index?
+- Tab index
+  - The significance of tab-index to the students
