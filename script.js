@@ -1,15 +1,9 @@
-function pageLoaded() {
-  var btn = document.getElementById('quote');
-  btn.addEventListener('click', function(event) {
-    var john = document.getElementById('John');
-    john.focus();
-    console.log(event.type);
-  });
-  btn.addEventListener('keydown', function(event) {
-    var john = document.getElementById('John');
-    john.focus();
-    console.log(event.type);
-  });
-}
+var btn = document.getElementById('quote');
+var john = document.getElementById('John');
+btn.addEventListener('click', focus);
+btn.addEventListener('keydown', focus);
 
-pageLoaded();
+function focus(event) {
+  john.focus();
+  console.log(event.type);
+}
