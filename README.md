@@ -15,4 +15,4 @@ https://github.com/njsfield/accessibility-challenge.git
 
 ## Resources
 - [Accessibility Tools](https://github.com/jsms90/web-accessibility/blob/master/tools-that-can-help.md)
-- [Semantic Resources](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/precourse/resources.md#semantic-hmtl)
+- [Semantic Resources](https://github.com/foundersandcoders/master-reference/tree/master/coursebook/precourse#semantic-html)
