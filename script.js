@@ -5,5 +5,6 @@ btn.addEventListener('keydown', focus);
 
 function focus(event) {
   john.focus();
+  john.style.opacity = '1';
   console.log(event.type);
 }
