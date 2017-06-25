@@ -13,6 +13,7 @@ The learning outcomes of this Morning Challenge are as follows:
 - Tab index
   - The significance of tab-index to the students
   - Adding tab-index = 0, makes any element focusable.
+  - Adding tab-index = -1 removes an element from the tabbing flow of the document.
   - The element has to be interactive from a keyboard and/or a screenreader.
 - Aria
   - You can use the role attribute to change an element's role, e.g.:
