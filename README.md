@@ -5,7 +5,7 @@
 
 1. Clone this repo
 
-At the top of this page, copy the url shown here:
+At the top of this page, click on the "Clone or download" button and copy the url shown here:
 
 ![where to copy url on github](./img/copy-clone-link.png)
 
