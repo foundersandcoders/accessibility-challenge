@@ -5,7 +5,7 @@
 
 1. Clone this repo
 ```
-https://github.com/njsfield/accessibility-challenge.git
+https://github.com/foundersandcoders/accessibility-challenge.git
 ```
 
 2. Open the index.html file
