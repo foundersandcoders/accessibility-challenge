@@ -14,7 +14,7 @@ At the top of this page, click on the "Clone or download" button and copy the ur
 Then use the command in your terminal:
 
 ```
-git clone https://github.com/njsfield/accessibility-challenge.git
+git clone https://github.com/foundersandcoders/accessibility-challenge.git
 ```
 
 The git clone command copies an existing git repository, normally from some remote location to your local environment.
