@@ -31,5 +31,4 @@ git clone https://github.com/njsfield/accessibility-challenge.git
 10. [Instead of divs, use sections (indicates a themed section), headers (indicates topmost portion of a section), articles (indicating self-contained compositions) and footers (indicating end of a themed section)](http://www.hongkiat.com/blog/html-5-semantics/)
 11. [Use paragraph elements instead of span elements](http://www.456bereastreet.com/archive/200903/use_the_p_element_to_create_paragraphs/)
 12. [Add label elements for the form, to allow screen readers to speak the elements fields](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/How_to_structure_an_HTML_form)
-13. [Enable tab ordering by setting the tabindex="0" attribute on elements (if the DOM order matches tab order)](http://adrianroselli.com/2014/11/dont-use-tabindex-greater-than-0.html)
-14. [Use quote and cite elements for semantics and accessibility](http://html5doctor.com/blockquote-q-cite/)
+13. [Use quote and cite elements for semantics and accessibility](http://html5doctor.com/blockquote-q-cite/)
