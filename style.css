@@ -1,0 +1,25 @@
+body{
+
+	text-align: center;
+	background-color:  #004466;
+	color: white;
+
+}
+h1{
+	text-align: center;
+}
+
+.img{
+
+	padding-top: 50spx;
+}
+
+p{
+
+	padding-left: 200px;
+	padding-right: 200px;
+}
+
+form{
+	text-align: center;
+}

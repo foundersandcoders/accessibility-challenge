@@ -2,14 +2,15 @@
 
 	<head>
 		<title>My Messy Site</title> 
-		<link href="style.css" />
+		  <link rel="stylesheet" href="style.css">
+
 	</head>
 
 
 
 <body>
 <h1>I Love Coding</h1>
-	<img src="./catonkeyboard.jpeg" />
+	<img src="./catonkeyboard.jpeg" alt="Cat photo" class="img" />
 	
 	
 		<h2>First Section Header</h2>
@@ -30,14 +31,18 @@
 		sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 		
 	<form action="/" method="post">
-		First Name
-		<input type="text"/><br>
-		Last Name
-		<input type="text"/><br>
-		Email
-		<input type="email"/><br>
-		Password
-		<input type="password"/>
+		<label  for="firstname" >First Name</label>
+		<input type="text" id="firstname" /><br><br>
+
+		<label for="lastname">Last Name</label>
+		<input type="text" id="lastname" /><br><br>
+
+		<label for="email">Email</label>
+		<input type="email" id="email" /><br><br>
+
+		<label>Password</label>
+		<input type="password" /><br><br>
+
 		<button type="submit"/>
 		Submit
 		</button>
