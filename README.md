@@ -26,7 +26,7 @@ cd accessibility-challenge
 ```
 
 2. Open the index.html file
-3. Using your test editor, improve as many semantic/accessibility issues littered throughout the file as you can!
+3. Using your text editor, improve as many semantic/accessibility issues littered throughout the file as you can!
 4. To help you start, I'd recommend downloading [Prettier](https://atom.io/packages/prettier-atom), a useful plugin for Atom. If you're using VS Code the version is [here](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode).
 5. Use one of the many available accessibility checking tools available online to help you.
 
