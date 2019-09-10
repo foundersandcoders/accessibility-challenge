@@ -30,6 +30,12 @@ cd accessibility-challenge
 4. To help you start, I'd recommend downloading [Prettier](https://atom.io/packages/prettier-atom), a useful plugin for Atom. If you're using VS Code the version is [here](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode).
 5. Use one of the many available accessibility checking tools available online to help you.
 
+You'll notice that some of the accessibility tools we've used so far (such as Accessibility Developer Tools and HTML Checker) **won't work** on your `index.html` if you're only serving it on your local machine.
+
+Luckily, both Atom and VS Code have packages that allow you to get around this, through launching your project on a simple HTTP server. You can install these packages from within your editor, and then in VS Code, simply right-click your `index.html` in the file tree and click 'Open with Live Server'. In Atom, hit the packages tab at the top and go to "atom-live-server".
+
 ## Resources
 - [Accessibility Tools](https://github.com/jsms90/web-accessibility/blob/master/tools-that-can-help.md)
 - [Semantic Resources](https://github.com/foundersandcoders/master-reference/tree/master/coursebook/precourse#semantic-html)
+- [Atom Live Server docs](https://github.com/jas-chen/atom-live-server)
+- [VS Code Live Server docs](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
