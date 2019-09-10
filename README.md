@@ -27,9 +27,9 @@
 
 1. Open the directory in your editor. Use either `code .` for VS Code or `atom .` for Atom.
 1. Open `index.html` in your editor and improve as many semantic/accessibility issues littered throughout the file as you can. (**Hint: Ideally there shouldn't be any `div`s or `span`s left!**)
-1. Use one of the many available accessibility checking tools available online to help you.
+1. Don't forget to check automated accessibility tools in your browser or online.
 
-You'll notice that some of the accessibility tools we've used so far (such as Accessibility Developer Tools and HTML Checker) **won't work** on your `index.html` if you're only serving it on your local machine.
+You'll notice that some of the accessibility tools we've used so far (such as Chrome Developer Tools Audit and HTML Checker) **won't work** on your `index.html` if you've opened it as a local file in your browser.
 
 Luckily, both Atom and VS Code have packages that allow you to get around this, through launching your project on a simple HTTP server. You can install these packages from within your editor, and then in VS Code, simply right-click your `index.html` in the file tree and click 'Open with Live Server'. In Atom, hit the packages tab at the top and go to "atom-live-server".
 
