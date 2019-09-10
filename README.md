@@ -26,7 +26,7 @@
    ```
 
 1. Open the directory in your editor. Use either `code .` for VS Code or `atom .` for Atom.
-1. Open `index.html` in your editor and improve as many semantic/accessibility issues littered throughout the file as you can!
+1. Open `index.html` in your editor and improve as many semantic/accessibility issues littered throughout the file as you can. (**Hint: Ideally there shouldn't be any `div`s or `span`s left!**)
 1. Use one of the many available accessibility checking tools available online to help you.
 
 You'll notice that some of the accessibility tools we've used so far (such as Accessibility Developer Tools and HTML Checker) **won't work** on your `index.html` if you're only serving it on your local machine.
