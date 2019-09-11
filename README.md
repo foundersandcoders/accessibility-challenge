@@ -1,5 +1,4 @@
-**Author**: [@njsfield](https://github.com/njsfield)  
-**Maintainer**: [@njsfield](https://github.com/njsfield)
+**Author**: [@njsfield](https://github.com/njsfield)
 
 # Accessibility Morning Challenge (60 minutes)
 
