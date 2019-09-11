@@ -2,6 +2,8 @@
 
 # Accessibility Morning Challenge (60 minutes)
 
+**Don't forget: research what you don't know and ask for help when you're totally stuck.**
+
 1. Clone this repo
 
    We are going to copy this repository to our local environment.
